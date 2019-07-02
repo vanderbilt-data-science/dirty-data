@@ -1,5 +1,5 @@
 # dirty-data
-Dirty (Dancing) Data is a repository of fun datasets that need some work.
+Dirty (Dancing) Data is a repository of interesting (sometimes fun) datasets that need some work.
 
 ### Metro Nashville Open Data Set
 
