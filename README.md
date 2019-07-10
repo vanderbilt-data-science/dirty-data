@@ -19,3 +19,9 @@ https://evictionlab.org/
 https://archive.ics.uci.edu/ml/index.php
 
 UCI Machine Learning Repository currently maintains 475 data sets as a service to the machine learning community. These datasets are ready for immediate model building. 
+
+## MLBench Data
+
+https://cran.r-project.org/web/packages/mlbench/index.html
+
+MLBench is a reformatting of some of the datasets commonly used in UCI Machine Learning Repository and supporting code for benchmarking. The dataframes are stored in the mlbench-data subdirectory as read-to-use csv files.  
