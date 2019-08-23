@@ -25,3 +25,7 @@ UCI Machine Learning Repository currently maintains 475 data sets as a service t
 https://cran.r-project.org/web/packages/mlbench/index.html
 
 MLBench is a reformatting of some of the datasets commonly used in UCI Machine Learning Repository and supporting code for benchmarking. The dataframes are stored in the mlbench-data subdirectory as read-to-use csv files.  
+
+## NYC Flight Data
+
+A perennial favorite! This data is provided in the nycflights13 package, but is included here in the nycflights13 folder for practice in reading data from CSVs. 
