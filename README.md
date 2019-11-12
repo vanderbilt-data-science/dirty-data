@@ -22,7 +22,7 @@ UCI Machine Learning Repository currently maintains 475 data sets as a service t
 
 ## MLBench Data
 
-https://cran.r-project.org/web/packages/mlbench/index.html
+https://cran.r-project.org/web/packages/mlbench/mlbench.pdf
 
 MLBench is a reformatting of some of the datasets commonly used in UCI Machine Learning Repository and supporting code for benchmarking. The dataframes are stored in the mlbench-data subdirectory as read-to-use csv files.  
 
