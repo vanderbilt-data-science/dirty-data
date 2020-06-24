@@ -2,6 +2,23 @@
 Dirty (Dancing) Data is a repository of interesting (sometimes fun) datasets that need some work.
 ![alt text](https://upload.wikimedia.org/wikipedia/en/0/00/Dirty_Dancing.jpg "Dirty (Dancing) Data")
 
+
+### Our World In Data: Coronavirus
+
+https://ourworldindata.org/coronavirus
+
+Which countries are doing better and which are doing worse? We built 207 country profiles which allow you to explore the statistics on the coronavirus pandemic for every country in the world.
+
+Each profile includes interactive visualizations, explanations of the presented metrics, and the details on the sources of the data.
+
+Every country profile is updated daily.
+
+Every profile includes four sections
+Deaths: How many deaths from Coronavirus have been reported? Is the number of deaths still increasing? How does the death rate compare to other countries?
+Testing: How much testing for coronavirus do countries conduct? When did they start and how does it compare with other countries?
+Cases: How many cases were confirmed? How many tests did a country do to find one COVID-19 case? And is your country bending the curve?
+Government responses: What measures did countries take in response to the pandemic?
+
 ### Metro Nashville Open Data Set
 
 https://data.nashville.gov/
